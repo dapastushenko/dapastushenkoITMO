@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Task2_18 {
     public static void main(String[] args) {
         int count = 1;
