@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson4.Adder;
 
 public class Adder {
     int shag;

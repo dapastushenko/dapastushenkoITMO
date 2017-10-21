@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson4.IntList;
 
 public class IntList {
     Item head;

@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson4.IntList;
 
 public class IntStream {
     public static void main(String[] args) {

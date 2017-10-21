@@ -1,4 +1,4 @@
-package Lesson4;
+package Lesson4.IntList;
 
 public class Item {
     int value;
@@ -9,8 +9,5 @@ public class Item {
     }
 
     public Item() {
-
     }
-
-
 }
