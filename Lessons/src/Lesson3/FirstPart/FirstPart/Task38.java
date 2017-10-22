@@ -3,7 +3,7 @@
 максимальным и сообщите индекс его последнего вхождения в массив.
  */
 
-package Lesson3;
+package Lesson3.FirstPart;
 
 import java.util.Arrays;
 
