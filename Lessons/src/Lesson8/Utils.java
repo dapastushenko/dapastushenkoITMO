@@ -1,4 +1,4 @@
-package Lesson7.Task2;
+package Lesson8;
 
 public final class Utils {
 
